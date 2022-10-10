@@ -1,0 +1,3 @@
+import calendar as cal
+year=int(input("Enter Year to see the calender \t"))
+cal.prcal(year)
